@@ -53,3 +53,7 @@ await Bun.build({
   },
 })
 ```
+
+## Next steps
+
+Go explore [the component docs](docs/components.md), or have a look at some of the custom component [examples](examples).
